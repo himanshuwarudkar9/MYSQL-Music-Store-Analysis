@@ -3,4 +3,6 @@
 
  # Database and Tool:
  MYSQL
+ 
+ Schema- Music Store Database
 ![image](https://github.com/himanshuwarudkar9/MYSQL-Music-Store-Analysis/assets/134875100/cd51a992-4d28-4a38-a907-f7d7c015dacf)
